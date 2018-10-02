@@ -1,9 +1,6 @@
 
 
 
-trelloKey = "33dc558719319edbe1819e9bb185d746"
-trelloToken = "ecc1c9a94ef618b832be000f7b74c5e05779d44cef0101ce16a2c2631bcd9d9a"
-
 
 import trolly
 trelloKey = "YOUR_KEY"
